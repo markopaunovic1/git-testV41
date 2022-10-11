@@ -2,4 +2,4 @@ Hej detta är ett test från Marko
 
 Test från github/ kommentar från datorn
 
-test 5 konflikt
+test 4 konflikt 
