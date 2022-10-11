@@ -3,3 +3,4 @@ Hej detta är ett test från Marko
 Test från github/ kommentar från datorn
 
 test 4 konflikt 
+editing the branch
