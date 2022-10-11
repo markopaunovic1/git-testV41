@@ -2,4 +2,8 @@ Hej detta är ett test från Marko
 
 Test från github/ kommentar från datorn
 
+<<<<<<< HEAD
 test 4 konflikt 
+=======
+test 4 konflikt
+>>>>>>> a8a7a4d738a513eb2d40550dfea91da2d143a5b9
