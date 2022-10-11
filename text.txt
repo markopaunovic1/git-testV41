@@ -2,12 +2,9 @@ Hej detta är ett test från Marko
 
 Test från github/ kommentar från datorn
 
-<<<<<<< HEAD
 
 test 4 konflikt/ kommentar från datorn
 
 
-=======
-test 4 konflikt 
-editing the branch
->>>>>>> 039f3d88713f3f3972e91b4cffdfc43948e6888d
+test 4 konflikt/ kommentar från datorn
+
